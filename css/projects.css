@@ -1,0 +1,20 @@
+.row{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 3%;
+}
+
+.project-img{
+    border-radius: 50%;
+}
+
+.img-div{
+    /* background-color: black; */
+    width: 30%;
+    height: 10%;
+}
+
+.project-description{
+    width: 30%;
+}
